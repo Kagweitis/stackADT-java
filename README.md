@@ -1,2 +1,2 @@
 # stackADT-java 
-An implementation of the stack abstract data type Java
+An implementation of the linked list abstract data type Java
